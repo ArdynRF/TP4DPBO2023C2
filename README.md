@@ -16,35 +16,34 @@ Download Kode PHP pada link berikut ini TP MVC.
 ![image](https://github.com/azkanaon/TP4DPBO2023C2/assets/90915678/96ee2361-0ea7-426e-b712-4a316835eadd)
 
 ## Alur Program
-Halaman Anggota :
-  1. Pada halaman awal akan ditampilkan halaman index (list anggota)
-  2. jika ingin melihat detail, tinggal klik bagian card pada data yang ingin diinginkan
-    a. tekan edit data jika ingin melakukan edit
-      1) Isi dengan data baru kemmudian tekan tambah data untuk mengupadate
-    b. tekan delete jika ingin menghapus
-  3. Dapat melakukan searching berdasarkan nama, bisa penggalannya saja atau full namanya
-  4. Tekan button filter descending untuk menampilkan data berdasarkan nama secara descending
-  5. Tekan tambah data pada navbar jika ingin menambah data anggota baru
- 
+Halaman Member :
+  1. Tekan add data untuk menambah data
+     - Input form
+     - tekan add
+     - query insert berjalan
+     - end
+  2. tekan edit pada tabel untuk mengedit data
+     - Edit form yang ada
+     - tekan update
+     - query update berjalan
+     - end
+  3. tekan delete pada tabel untuk menghapus data
+     - query delete jalan
+     - end
 Halaman Jabatan
-  1. Tekan Daftar Jabatan pada navbar untuk mengakses halaman jabatan
-  2. Ditampilkan semua data jabatan
-  3. Dapat melakukan searching berdasarkan nama, bisa penggalannya saja atau full namanya
-  4. Tekan button filter descending untuk menampilkan data berdasarkan nama secara descending
-  5. Langsung isi form pada form yang ada di samping untuk menambah data baru
-  6. Tekan icon edit pada aksi untuk melakukan update, ketika update ditekan maka akan ditampilkan data yang ditekan pada form yang telah tersedia, jika ingin edit maka tinggal ubah form tersebut dengan isian baru
-  7. Jika ingin menghapus, langsung tekan icon tong sampah pada colum yg telah tersedia, jika ditekan maka akan langsung terhapus apabila tidak ada foreign key dengan huruf tabel anggota, jika ada, maka akan error
- 
-Halaman Partai:
-  1. Tekan Daftar Partai pada navbar untuk mengakses halaman jabatan
-  2. Ditampilkan semua data jabatan
-  3. Dapat melakukan searching berdasarkan nama, bisa penggalannya saja atau full namanya
-  4. Tekan button filter descending untuk menampilkan data berdasarkan nama secara descending
-  5. Langsung isi form pada form yang ada di samping untuk menambah data baru
-  6. Tekan icon edit pada aksi untuk melakukan update, ketika update ditekan maka akan ditampilkan data yang ditekan pada form yang telah tersedia, jika ingin edit maka tinggal ubah form tersebut dengan isian baru
-  7. Jika ingin menghapus, langsung tekan icon tong sampah pada colum yg telah tersedia, jika ditekan maka akan langsung terhapus apabila tidak ada foreign key dengan huruf tabel anggota, jika ada, maka akan error
-
-
+  1. Tekan add data untuk menambah data
+     - Input form
+     - tekan add
+     - query insert berjalan
+     - end
+  2. tekan edit pada tabel untuk mengedit data
+     - Edit form yang ada
+     - tekan update
+     - query update berjalan
+     - end
+  3. tekan delete pada tabel untuk menghapus data
+     - query delete jalan
+     - end
 ## Dokumentasi
 1. Tampil Data Member
 ![image](https://github.com/azkanaon/TP4DPBO2023C2/assets/90915678/a3c2bb8e-9cf5-462c-a322-c847e160c0cb)
